@@ -1,0 +1,96 @@
+.Boardbox
+{
+	height:400px;
+	width:320px;
+	background-color:#373C40;
+	position: fixed;
+	top:120px;
+}
+
+.screenboard
+{
+	height:120px;
+	width:320px;
+	background-color:#373C40;
+	position: fixed;
+	border-radius:10% 10% 0% 0%; 
+	display:flex;
+	justify-content: center;
+}
+
+
+
+.numbutton
+{
+	height:70px;
+	width:70px;
+	margin-left:4px;
+	margin-right:4px;
+	margin-top:4px;
+	background-color:#58595B;
+	color:#fff;
+	border-color: #B5B9C0;
+}
+
+.opbutton
+{
+	height:70px;
+	width:70px;
+	margin-left:4px;
+	margin-right:4px;
+	margin-top:4px;
+	background-color:#58595B;
+	color:#fff;
+	border-color: #B5B9C0;
+}
+
+.expbutton
+{
+	height:70px;
+	width:70px;
+	margin-left:4px;
+	margin-right:4px;
+	margin-top:4px;
+	background-color:#58595B;
+	color:#fff;
+	border-color: #B5B9C0;
+}
+
+.eqbutton
+{
+	 height:70px;
+	width:200px;
+	margin-left:4px;
+	margin-right:6px;
+	margin-top:4px;
+	background-color:#F15A2B;
+	color:#fff;
+	border-color: #FC8E6C;
+}
+
+
+
+.clbutton
+{
+	 height:70px;
+	width:70px;
+	margin-left:4px;
+	margin-right:4px;
+	margin-top:4px;
+	background-color:#2B1259;
+	color:#fff;
+	border-color: #5827B2;
+}
+
+.myscreen
+{
+	height:100px;
+	width:310px;
+	background-color:#A6B8A2;
+	margin-top:20px;
+	color:#fff;
+	font-family: monospace;
+	font-size: 25px;
+	border-top:5px solid #8A9986;
+	border-radius:2px 2px 0% 0%;
+}
